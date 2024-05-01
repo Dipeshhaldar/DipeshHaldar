@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipeshhaldar&label=Profile%20views&color=0e75b6&style=flat" alt="dipeshhaldar" /> </p>
 
-- 👨‍💻 Portfolio Link :- [dipeshhaldar.vercel.app](dipeshhaldars.vercel.app)
+- 👨‍💻 Portfolio Link :- [dipeshhaldar.vercel.app](https://dipeshhaldar.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
